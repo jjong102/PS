@@ -1,0 +1,7 @@
+#define all(v) v.begine(), v.end()
+#define FASTIO ios::sync_with_stdio(false);cin.tie(nullptr);
+
+using ll = long long;
+using pii = pair<int, int>;
+using vi = vector<int>;
+using func_t = int (*)(int, int);
