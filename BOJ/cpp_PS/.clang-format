@@ -1,8 +1,0 @@
-BasedOnStyle: Google
-IndentWidth: 4 # 들여쓰기 칸 수 (Google은 2인데, 여기선 4로 변경 예시)
-ColumnLimit: 100 # 한 줄 최대 길이
-AllowShortFunctionsOnASingleLine: Inline
-SortIncludes: true
-IncludeBlocks: Preserve
-BreakBeforeBraces: Attach
-SpaceAfterCStyleCast: true
